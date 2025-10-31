@@ -33,6 +33,23 @@ const projects = [
     github: "https://github.com/Rehab-Ahmed2001/E-Commerce-app",
   },
   {
+    num: "01",
+    category: "Front-End",
+    title: "Portfolio",
+    description:
+      "A modern personal portfolio template showcasing projects, resume, and skills.",
+    stack: [
+      { name: "HTML 5" },
+      { name: "Tailwind CSS" },
+      { name: "JavaScript" },
+      { name: "React" },
+      { name: "Next.js" },
+    ],
+    image: "/assets/portfolio.png",
+    live: "",
+    github: "https://github.com/Rehab-Ahmed2001/Portfolio",
+  },
+  {
     num: "02",
     category: "Front-End",
     title: "Weather App",
