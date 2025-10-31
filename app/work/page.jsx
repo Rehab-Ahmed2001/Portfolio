@@ -46,7 +46,7 @@ const projects = [
       { name: "Next.js" },
     ],
     image: "/assets/portfolio.png",
-    live: "",
+    live: "https://portfolio-eight-sigma-37.vercel.app/",
     github: "https://github.com/Rehab-Ahmed2001/Portfolio",
   },
   {
